@@ -3,6 +3,5 @@
 "description": "eXtremely SECure Cardano ADA Pool",
 "ticker": "XSEC",
 "homepage": "https://ada.xsec.es",
-"extended": "https://git.io/JZmxb",
-"verify": "49e77eb907faf94677"
+"extended": "https://git.io/JZmxb"
 }
