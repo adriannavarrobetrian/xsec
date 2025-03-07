@@ -2,7 +2,7 @@
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://git.io/JZmAr",
-        "url_png_logo": "https://git.io/JZmAr",
+        "url_png_logo": "https://tinyurl.com/2f9yde5y",
         "location": "The Cloud",
         "social": {
             "twitter_handle": "XsecP",
@@ -15,7 +15,7 @@
         },
         "company": {
             "name": "eXtremely SECure Cardano ADA Staking Pool ",
-            "website": "https://ada.xsec.es"
+            "website": "https://ada.allxsec.com"
         },
         "about": {
             "me": "We are certified DevSecOps engineers with over 20 years of experience managing highly available distributed systems. Passionate about web3 and decentralizacion of power.",
